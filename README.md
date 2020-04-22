@@ -1,2 +1,4 @@
 # aiml1
-These are files where I work on different projects and it has working copies.
+
+Folders for different projects done during learning ML.
+Files in main folder are working copies.
